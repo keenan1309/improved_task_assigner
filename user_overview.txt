@@ -1,0 +1,2 @@
+The amount of incomplete tasks left is : 3
+The amount of completed tasks : 3
